@@ -1,0 +1,3 @@
+[submodule "EfficientPose"]
+	path = EfficientPose
+	url = https://github.com/ybkscht/EfficientPose

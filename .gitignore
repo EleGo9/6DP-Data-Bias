@@ -1,0 +1,21 @@
+### Pycharm stuffs
+.idea/
+*__pycache__/
+
+### model weights
+*.pth
+*.pt
+*.onnx
+*.h5
+
+## python
+.ipynb_checkpoints
+
+### media
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.avi
+*.mp4
